@@ -1,3 +1,3 @@
 # Typographic rules
 
-Currently creating a GH page.
+[LINK](http://matissev.github.io/typographic_rules)
